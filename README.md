@@ -34,3 +34,8 @@
     <img src="https://raw.githubusercontent.com/Yezyizhere01/Yezyizhere01/output/github-contribution-grid-snake.svg" alt="贪吃蛇吃掉三文鱼的 GitHub 提交记录" width="100%" />
   </picture>
 </div>
+
+<div align="center">
+  <br />
+  <sub>Thanks for stopping by ✦ 感谢来访</sub>
+</div>
